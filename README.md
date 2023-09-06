@@ -13,7 +13,8 @@ npx tsc --init
 
 ## Add ESLint
 npm i eslint -D
-npx eslint init
+
+npx eslint --init
 
 > rules: {
 > "quotes": ["error", "double"]
